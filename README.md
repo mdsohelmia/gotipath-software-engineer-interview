@@ -1,4 +1,4 @@
-# gotipath-software-engineer-interview
+# software-engineer-interview
 
 ## Topic
 - PHP
