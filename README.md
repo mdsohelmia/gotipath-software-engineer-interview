@@ -14,6 +14,7 @@
   * Job queue
   * Notification
   * Database Migration
+  * Validation
 - Mysql
   * Primary Key
   * Foreign key
