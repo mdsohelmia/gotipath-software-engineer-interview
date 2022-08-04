@@ -27,3 +27,4 @@
   * Js basic 
   * Vue or Reactjs basic
 - Go (optional)
+- Cloud & CDN 
