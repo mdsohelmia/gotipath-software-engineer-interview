@@ -10,12 +10,16 @@
   * Laravel Request Lile cyle
   * ORM
   * Services Provider & Service Container
-  * Kernel
+  * Larvel Kernel
+  * Job queue
+  * Notification
+  * Database Migration
 - Mysql
   * Primary Key
   * Foreign key
   * Joinging 
   * Indexing 
+  * Database-scaling-patterns (optional)
 - Software Engineer Principle
   * SOLID
   * Desing Pattern
