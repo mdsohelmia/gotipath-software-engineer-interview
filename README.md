@@ -15,12 +15,13 @@
   * Notification
   * Database Migration
   * Validation
-- Mysql
+- Database
   * Primary Key
   * Foreign key
   * Joinging 
   * Indexing 
   * Database-scaling-patterns (optional)
+  * Redis
 - Software Engineer Principle
   * SOLID
   * Desing Pattern
