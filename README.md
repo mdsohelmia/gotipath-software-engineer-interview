@@ -30,3 +30,4 @@
   * Vue or Reactjs basic
 - Go (optional)
 - Cloud & CDN 
+- Data structures and algorithms
