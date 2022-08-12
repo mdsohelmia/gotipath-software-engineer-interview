@@ -7,10 +7,10 @@
   * Composer 
   * PSR
 - Laravel
-  * Laravel Request Lile cyle
+  * Laravel Request Life cycle
   * ORM
   * Services Provider & Service Container
-  * Larvel Kernel
+  * Laravel Kernel
   * Job queue
   * Notification
   * Database Migration
@@ -18,13 +18,13 @@
 - Database
   * Primary Key
   * Foreign key
-  * Joinging 
+  * Joining 
   * Indexing 
   * Database-scaling-patterns (optional)
   * Redis
 - Software Engineer Principle
   * SOLID
-  * Desing Pattern
+  * Design Pattern
 - Frontend Engineering
   * Js basic 
   * Vue or Reactjs basic
